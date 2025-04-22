@@ -5,7 +5,7 @@ This is the official implementation of [Episodic and associative memory from spa
 ## Citation
 If you use this code for your research, please cite our paper.
 ```
-﻿@Article{Chandra2025,
+﻿@Article{Chandra&Sharma2025,
 author={Chandra, Sarthak
 and Sharma, Sugandha
 and Chaudhuri, Rishidev
